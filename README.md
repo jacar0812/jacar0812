@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremy, an <a href="https://linkedin.com/in/Josh">aspiring Cyber Security professional</a>☺</h1>
+<h1>Hi, I'm Jeremy, an <a href="https://linkedin.com/in/Josh">aspiring IT and Cyber Security professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
