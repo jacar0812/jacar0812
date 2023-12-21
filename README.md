@@ -1,5 +1,10 @@
 <h1>Hi, I'm Jeremy, an <a href="https://www.linkedin.com/in/jeremy-mason-a34659b7">aspiring IT and Cyber Security professional</a></h1>
 
+<h2>👨🏿‍💻 Cybersecurity Projects:</h2>
+
+- <b>Microsoft Azure</b>
+  - [Building a Honeynet and SOC in Azure](https://github.com/jacar0812/Cloud-Honeynet)
+
 <h2>👨🏿‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
