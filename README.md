@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Building a Honeynet and SOC in Azure](https://github.com/jacar0812/Cloud-Honeynet)
+  - [Honeynet: Attack Observation for Enhanced Architecture Hardening](https://github.com/jacar0812/SOC-Honeynet.git)
 
 <h2>👨🏿‍💻 Information Technology Projects:</h2>
 
