@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremy, an <a href="https://www.linkedin.com/in/jeremy-mason-a34659b7">aspiring IT and Cyber Security professional</a></h1>
+<h1>Hi, I'm Jeremy, an <a href="https://www.linkedin.com/in/jeremy-mason-a34659b7">aspiring IT and Cloud Security professional</a></h1>
 
 <h2>👨🏿‍💻 Cybersecurity Projects:</h2>
 
