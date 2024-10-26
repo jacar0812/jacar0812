@@ -1,5 +1,9 @@
 <h1>Hi, I'm Jeremy, an <a href="https://www.linkedin.com/in/jeremy-mason-a34659b7">aspiring IT and Cloud Security professional</a></h1>
 
+I'm a dedicated cloud computing and cybersecurity enthusiast with a strong foundation in finance. After nearly a decade in that field, I found my true passion in IT and shifted focus to dive into cloud technology. I’m committed to continuous learning and skill development, especially through hands-on projects, lab work, and experimenting with platforms like Azure and AWS.
+
+This repository documents my journey as I apply new knowledge, tackle real-world scenarios, and work toward becoming a Cloud Security Engineer. Thanks for visiting, and feel free to connect if you’re interested in collaborating or discussing cloud and security topics!
+
 <h2>👨🏿‍💻 Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure</b>
