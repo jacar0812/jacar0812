@@ -10,6 +10,9 @@ This documents my journey as I apply new knowledge, tackle real-world scenarios,
   - [Building a Honeynet and SOC in Azure](https://github.com/jacar0812/Cloud-Honeynet)
   - [Honeynet: Attack Observation for Enhanced Architecture Hardening](https://github.com/jacar0812/SOC-Honeynet.git)
 
+- <b>Amazon Web Services</b>
+  - [Creating a functional VPC from scratch in AWS](https://github.com/jacar0812/AWS-vpc.git)
+
 <h2>👨🏿‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
